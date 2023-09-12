@@ -9,7 +9,7 @@ The RAIS framework provides guidance for the venture capital industry for invest
 - FAQ
 - Contact
 
-**## Usage**
+##Usage
 The framework is intended as a guide for early-stage venture capital investors assessing early-stage companies creating and using AI as a meaningful aspect of their product. 
 
 There are three main sections to the framework looking at different risk areas: social and ethical, industry-specific and regulatory, and technical.
