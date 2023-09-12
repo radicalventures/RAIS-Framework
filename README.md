@@ -68,16 +68,19 @@ This is a working draft open for iteration amongst the investment and AI builder
 
 ## FAQ 
 **Q: How is Artificial Intelligence defined in the framework?**
+
 **A:** The framework aims to assess companies developing and deploying across the toolchain including companies developing Foundation Models, as well as those leveraging model APIs. The framework should also include AI solutions and services including SaaS and AI-embedded functions, AI data pipeline companies, AI software modules, AI/ML lifecycle management platforms and tools, and AI-related infrastructure companies (often referred to as MLOps). 
 
 **Q: Why is a venture capital fund creating a Responsible AI and Safety Framework?**
-**A** Venture capital has become an essential driver of economic value. In 2020, venture capital-backed companies accounted for 41% of total US market capitalization and 62% of US public companies’ R&D spending. Among the public companies founded within the last fifty years, venture-funded companies account for half in number, three-quarters by value, and more than 92% of R&D spending and patent value. The fact that only approximately 0.5% of companies receive venture financing in the US demonstrates the disproportionate role that venture capital plays in the economy.
+
+**A:** Venture capital has become an essential driver of economic value. In 2020, venture capital-backed companies accounted for 41% of total US market capitalization and 62% of US public companies’ R&D spending. Among the public companies founded within the last fifty years, venture-funded companies account for half in number, three-quarters by value, and more than 92% of R&D spending and patent value. The fact that only approximately 0.5% of companies receive venture financing in the US demonstrates the disproportionate role that venture capital plays in the economy.
 
 In 2022, there were 32 significant industry-produced machine learning models compared to just 3 produced by academia. Many of these companies received their first capital from venture investors. Building state-of-the-art AI systems increasingly requires large amounts of data, compute, and thus money. In addition to addressing nonprofit and academic access to these resources, it is important that investors have the appropriate tools and information to assess the technologies that gain access to funding.
 
 Venture investors should use this as an early brainstorming tool. Investors at the earliest stages are helping to launch initial products and should be part of the ideation for product development and deployment. Additionally, understanding the required mitigation can inform the investment to ensure these tools and processes are adequately funded to reduce risk. 
 
 **Q: Who is Radical Ventures?**
+
 **A:** Radical Ventures is an AI-focused venture capital fund investing in world-leading entrepreneurs developing and applying AI to invent the future. Currently, Radical manages close to $1 billion of commitments under four funds. The portfolio is currently made up of approximately 50 investments across industries from healthcare to space. Globally, Radical Ventures has relationships with leading AI experts, research institutes, and early corporate adopters. In addition to its offices in Toronto, Canada, and Palo Alto, California, Radical Ventures recently added two partners based in London, United Kingdom. 
 
 Radical Ventures is committed to developing AI technologies and applications that improve the future for all. The Investment Framework for Responsible AI is the first step in a larger strategy to put responsible AI in practice. 
