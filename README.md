@@ -32,6 +32,7 @@ A guide has also been provided for assessing impact which is subject to adaptati
 <img width="321" alt="Screenshot 2023-09-12 at 12 32 48 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/d227c742-b370-4edd-a097-bc32a99ce9ae">
 
 **Remaining Risk:** After assessing the initial risk of the vulnerability strategies to mitigate either the likelihood or the impact of the vulnerability should be considered. Given these are implemented the likelihood and impact should be reassessed resulting in a calculation of the remaining risk. 
+
 <img width="616" alt="Screenshot 2023-09-12 at 12 30 13 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/986919fd-3653-4a75-9c95-0671737e9db8">
 
 **Risk:** The risk-level is colour-coded based on 10-point intervals.  
