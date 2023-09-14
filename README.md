@@ -13,6 +13,7 @@ The RAIS framework provides guidance for the venture capital industry for invest
 The framework is intended as a guide for early-stage venture capital investors assessing early-stage companies creating and using AI as a meaningful aspect of their product. 
 
 There are three main sections to the framework looking at different risk areas: social and ethical, industry-specific and regulatory, and technical.
+
 ![RAIS Screenshot 1](https://github.com/radicalventures/RAIS-Framework/assets/143823006/a79af7c0-2567-4562-ae2a-cf4682a5af7a)
 
 
@@ -20,6 +21,7 @@ There are three main sections to the framework looking at different risk areas: 
 
 **Risk**
 Risk is calculated as a product of likelihood and impact. 
+
 <img width="961" alt="Screenshot 2023-09-14 at 9 58 02 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/9e001a46-79c3-48c5-a285-b1cc4865c8c2">
 
 **Initial Risk:** Assessing the initial risk against the likelihood and the impact on stakeholders and/or assets and the company if nothing is changed in the business or product. 
@@ -28,10 +30,12 @@ Risk is calculated as a product of likelihood and impact.
 
 _Likelihood:_
 Likelihood is a subjective measure ranging from 0 to 7 with 7 being 100% likely (i.e., guaranteed). The scale is intentionally odd in number to avoid selecting a number that represents a 50% likelihood – which should be viewed as a random chance of the vulnerability occurring (neither likely nor unlikely). All likelihoods should be assessed as either more or less likely to happen than a random occurrence. 
+
 <img width="256" alt="Screenshot 2023-09-14 at 9 59 04 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/cc2dc4f5-8f8e-4717-8f8b-8ee5aae2a39e">
 
 _Impact:_
 A guide has also been provided for assessing impact which is subject to adaptation for specific uses. 
+
 <img width="321" alt="Screenshot 2023-09-12 at 12 32 48 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/7abbcc0a-68e9-4d67-95b8-5b408e9515b2">
 
 **Remaining Risk:** After assessing the initial risk of the vulnerability strategies to mitigate either the likelihood or the impact of the vulnerability should be considered. Given these are implemented the likelihood and impact should be reassessed resulting in a calculation of the remaining risk. 
@@ -39,11 +43,13 @@ A guide has also been provided for assessing impact which is subject to adaptati
 <img width="1205" alt="Screenshot 2023-09-12 at 12 29 05 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/559502b8-2cec-41d2-90a4-e97636bffba8">
 
 **Risk:** The risk-level is colour-coded based on 10-point intervals. 
- <img width="308" alt="Screenshot 2023-09-14 at 10 38 48 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/0ac0c528-0a18-4941-a6d6-6100acb75305">
+
+<img width="308" alt="Screenshot 2023-09-14 at 10 38 48 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/0ac0c528-0a18-4941-a6d6-6100acb75305">
 
 In the vulnerability rows, each vulnerability is given an initial and remaining risk reflected as a product of the likelihood and the impact scores. These are coloured with conditional formatting in Excel to match the risk-level matrix. 
 
 Rows are averaged using a standard average if the risk is greater than 0 to produce an average initial risk and an average remaining risk. 
+
 <img width="979" alt="Screenshot 2023-09-14 at 10 41 21 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/141e8b6f-1422-464d-8417-8ab5031d721c">
 
 **Note on the Regulatory Risk Area**: Likelihood in this risk area assesses the likelihood that the vulnerability would lead to non-compliance with relevant regulations dependent on industry and location. The impact is dependent on assessing the consequences of non-compliance.  
