@@ -20,21 +20,23 @@ There are three main sections to the framework looking at different risk areas: 
 
 **Risk**
 Risk is calculated as a product of likelihood and impact. 
-<img width="1074" alt="Screenshot 2023-09-12 at 12 52 58 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/0723581d-1425-46b0-95f1-eca81b85e61c">
+<img width="961" alt="Screenshot 2023-09-14 at 9 58 02 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/9e001a46-79c3-48c5-a285-b1cc4865c8c2">
 
 **Initial Risk:** Assessing the initial risk against the likelihood and the impact on stakeholders and/or assets and the company if nothing is changed in the business or product. 
 
+<img width="560" alt="Screenshot 2023-09-12 at 12 49 30 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/f73f4b21-98c3-4ac7-94de-3fdbd6696dc4">
+
 _Likelihood:_
 Likelihood is a subjective measure ranging from 0 to 7 with 7 being 100% likely (i.e., guaranteed). The scale is intentionally odd in number to avoid selecting a number that represents a 50% likelihood – which should be viewed as a random chance of the vulnerability occurring (neither likely nor unlikely). All likelihoods should be assessed as either more or less likely to happen than a random occurrence. 
-<img width="582" alt="Screenshot 2023-09-12 at 12 28 29 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/b5ad2b76-48c6-4e38-9418-eef5b19fcb4f">
+<img width="256" alt="Screenshot 2023-09-14 at 9 59 04 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/cc2dc4f5-8f8e-4717-8f8b-8ee5aae2a39e">
 
 _Impact:_
 A guide has also been provided for assessing impact which is subject to adaptation for specific uses. 
-<img width="321" alt="Screenshot 2023-09-12 at 12 32 48 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/d227c742-b370-4edd-a097-bc32a99ce9ae">
+<img width="321" alt="Screenshot 2023-09-12 at 12 32 48 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/7abbcc0a-68e9-4d67-95b8-5b408e9515b2">
 
 **Remaining Risk:** After assessing the initial risk of the vulnerability strategies to mitigate either the likelihood or the impact of the vulnerability should be considered. Given these are implemented the likelihood and impact should be reassessed resulting in a calculation of the remaining risk. 
 
-<img width="616" alt="Screenshot 2023-09-12 at 12 30 13 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/986919fd-3653-4a75-9c95-0671737e9db8">
+<img width="1205" alt="Screenshot 2023-09-12 at 12 29 05 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/559502b8-2cec-41d2-90a4-e97636bffba8">
 
 **Risk:** The risk-level is colour-coded based on 10-point intervals.  
 
