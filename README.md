@@ -40,13 +40,9 @@ A guide has also been provided for assessing impact which is subject to adaptati
 
 **Risk:** The risk-level is colour-coded based on 10-point intervals.  
 
-<img width="618" alt="Screenshot 2023-09-12 at 12 44 08 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/7188d623-8357-4027-8898-1a99d95f32d5">
-
 In the vulnerability rows, each vulnerability is given an initial and remaining risk reflected as a product of the likelihood and the impact scores. These are coloured with conditional formatting in Excel to match the risk-level matrix. 
-<img width="560" alt="Screenshot 2023-09-12 at 12 49 30 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/81011382-dacb-4df9-9c86-ad304a4fe182">
 
 Rows are averaged using a standard average if the risk is greater than 0 to produce an average initial risk and an average remaining risk. 
- <img width="1073" alt="Screenshot 2023-09-12 at 12 52 05 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/0ec8fee4-4dc6-4893-b29e-5a96c2cc8c36">
 
 **Note on the Regulatory Risk Area**: Likelihood in this risk area assesses the likelihood that the vulnerability would lead to non-compliance with relevant regulations dependent on industry and location. The impact is dependent on assessing the consequences of non-compliance.  
 
