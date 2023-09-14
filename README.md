@@ -13,7 +13,8 @@ The RAIS framework provides guidance for the venture capital industry for invest
 The framework is intended as a guide for early-stage venture capital investors assessing early-stage companies creating and using AI as a meaningful aspect of their product. 
 
 There are three main sections to the framework looking at different risk areas: social and ethical, industry-specific and regulatory, and technical.
-![RAIS Screenshot 1](https://github.com/radicalventures/RAIS-Framework/assets/143823006/f4fbc646-fdc9-46d1-a976-1789709fea83)
+![RAIS Screenshot 1](https://github.com/radicalventures/RAIS-Framework/assets/143823006/a79af7c0-2567-4562-ae2a-cf4682a5af7a)
+
 
 **Vulnerability/Threats:** In each risk area, there are recommendations for the types of vulnerabilities and threats that could be listed. These are not prescriptive and should be adapted to the investor's responsible investment principles.  
 
