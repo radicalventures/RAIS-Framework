@@ -38,11 +38,13 @@ A guide has also been provided for assessing impact which is subject to adaptati
 
 <img width="1205" alt="Screenshot 2023-09-12 at 12 29 05 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/559502b8-2cec-41d2-90a4-e97636bffba8">
 
-**Risk:** The risk-level is colour-coded based on 10-point intervals.  
+**Risk:** The risk-level is colour-coded based on 10-point intervals. 
+ <img width="308" alt="Screenshot 2023-09-14 at 10 38 48 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/0ac0c528-0a18-4941-a6d6-6100acb75305">
 
 In the vulnerability rows, each vulnerability is given an initial and remaining risk reflected as a product of the likelihood and the impact scores. These are coloured with conditional formatting in Excel to match the risk-level matrix. 
 
 Rows are averaged using a standard average if the risk is greater than 0 to produce an average initial risk and an average remaining risk. 
+<img width="979" alt="Screenshot 2023-09-14 at 10 41 21 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/141e8b6f-1422-464d-8417-8ab5031d721c">
 
 **Note on the Regulatory Risk Area**: Likelihood in this risk area assesses the likelihood that the vulnerability would lead to non-compliance with relevant regulations dependent on industry and location. The impact is dependent on assessing the consequences of non-compliance.  
 
@@ -53,7 +55,7 @@ Rows are averaged using a standard average if the risk is greater than 0 to prod
 It is recommended that as part of due diligence investors also ask for other relevant artefacts that may include AI principles, stakeholder maps, design history files for past product versions, or datasheets and model cards. Early companies should also create ethical principles, standards and AI principles, as well as a Product Requirements Document (PRD) or something similar for project planning. Recognizing that the RAIS Framework is intended for early-stage investors, this tool can effectively pinpoint areas requiring further analysis and the development of crucial internal audit documentation. The due diligence process for investment can take place even before a product has materialized, offering valuable insights to guide the creation of necessary artefacts as the company progresses beyond the ideation phase.
 
 **Streamlining and Adaptation:**
-This is a working draft open for iteration amongst the investment and AI builders community. Mitigation strategies should refer to best practices and tools documented in critical algorithm studies and the broader harm reduction community in the field of AI. Vulnerabilities and threats should focus limit focus as much as possible on the company's initial product and beachhead market or pilot to limit the extensive nature of this excerise.   
+This is a working draft open for iteration amongst the investment and AI builders community. Mitigation strategies should refer to best practices and tools documented in critical algorithm studies and the broader harm reduction community in the field of AI. Vulnerabilities and threats should limit focus as much as possible on the company's initial product and beachhead market or pilot to limit the extensive nature of this exercise.   
 
 **The framework is intended as a guide and does not guarantee compliance with any applicable regulation. Use of the framework does not guarantee that a system is safe and that risks are adequately mitigated.** 
 
