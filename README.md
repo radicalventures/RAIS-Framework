@@ -1,7 +1,7 @@
-# RESPONSIBLE AI INVESTING and SAFETY (RAIS) Framework
+# RESPONSIBLE AI INVESTMENT (RAII)Framework
 
 ## Introduction
-The RAIS framework provides guidance for the venture capital industry for investing in early-stage companies developing and deploying AI. This is a living framework that will evolve over time. We encourage firms to promote the benefits and mitigate the risks arising from AI as a powerful, general-purpose technology and to cultivate a collective sense of responsibility. 
+The RAII framework provides guidance for the venture capital industry for investing in early-stage companies developing and deploying AI. This is a living framework that will evolve over time. We encourage firms to promote the benefits and mitigate the risks arising from AI as a powerful, general-purpose technology and to cultivate a collective sense of responsibility. 
 
 ## Table of Contents
 - Usage
