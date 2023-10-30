@@ -29,7 +29,7 @@ Risk is calculated as a product of likelihood and impact.
 <img width="560" alt="Screenshot 2023-09-12 at 12 49 30 PM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/f73f4b21-98c3-4ac7-94de-3fdbd6696dc4">
 
 _Likelihood:_
-Likelihood is a subjective measure ranging from 0 to 7 with 7 being 100% likely (i.e., guaranteed). The scale is intentionally odd in number to avoid selecting a number that represents a 50% likelihood – which should be viewed as a random chance of the vulnerability occurring (neither likely nor unlikely). All likelihoods should be assessed as either more or less likely to happen than a random occurrence. 
+Likelihood is a subjective measure ranging from 0 to 7 with 7 being 100% likely (i.e., guaranteed).
 
 <img width="256" alt="Screenshot 2023-09-14 at 9 59 04 AM" src="https://github.com/radicalventures/RAIS-Framework/assets/143823006/cc2dc4f5-8f8e-4717-8f8b-8ee5aae2a39e">
 
