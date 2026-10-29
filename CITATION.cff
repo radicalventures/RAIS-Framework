@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use the RAIS Framework, please cite it as below."
+title: "Responsible AI Startups (RAIS) Framework"
+type: software
+authors:
+  - family-names: Morris
+    given-names: Leah Eliz
+    affiliation: "Radical Ventures"
+    website: "https://leahelizmorris.com"
+  - name: "Radical Ventures"
+    website: "https://radical.vc"
+abstract: >-
+  An open-source framework giving venture capital investors a structured way to assess
+  responsible AI practices at early-stage companies that develop or deploy AI. Adapted
+  from the internal-audit literature for AI systems (Raji, Smart et al., 2020), and used
+  as a case study in the World Economic Forum's Responsible AI Playbook for Investors (2024).
+keywords:
+  - responsible AI
+  - venture capital
+  - AI governance
+  - due diligence
+  - startups
+repository-code: "https://github.com/radicalventures/RAIS-Framework"
+url: "https://radical.vc/articles/underwriting-responsible-ai-venture-capital-needs-a-framework-for-ai-investing/"
+date-released: 2023-10-31
+version: "1.0"
+license: CC-BY-4.0
+references:
+  - type: report
+    title: "Responsible AI Playbook for Investors"
+    authors:
+      - name: "World Economic Forum, AI Governance Alliance"
+    year: 2024
+    url: "https://www.weforum.org/publications/responsible-ai-playbook-for-investors/"
+  - type: conference-paper
+    title: "Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing"
+    authors:
+      - family-names: Raji
+        given-names: Inioluwa Deborah
+      - family-names: Smart
+        given-names: Andrew
+    year: 2020
+    doi: 10.1145/3351095.3372873
