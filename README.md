@@ -92,4 +92,6 @@ Venture investors should use this as an early brainstorming tool. Investors at t
 Radical Ventures is committed to developing AI technologies and applications that improve the future for all. The Investment Framework for Responsible AI is the first step in a larger strategy to put responsible AI in practice. 
 
 ## Contact
-Leah Morris - Radical Ventures - [SafeAI@radical.vc](mailto:leah@radical.vc)
+   Leah Eliz Morris (framework author) - [leahelizmorris.com](https://leahelizmorris.com)
+   Radical Ventures - [SafeAI@radical.vc](mailto:aaron@radical.vc)
+
